@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "HW3",
+		"_postman_id": "aefc580f-8e8c-c5fa-9e3c-96fd553592b1",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "\thttp://nikkiyesalusky-test.apigee.net/HW3/get_repos",
+			"request": {
+				"url": "\thttp://nikkiyesalusky-test.apigee.net/HW3/get_repos",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
